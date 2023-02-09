@@ -1,0 +1,5 @@
+<?php
+
+echo Deleted Successfully 
+
+?>
